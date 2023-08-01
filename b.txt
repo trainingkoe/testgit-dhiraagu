@@ -1,2 +1,5 @@
 file created
 this is new content now added by admin.
+this is the collaborator editing file in dev branch.
+new edit introduced.
+file edited after branch protection.
